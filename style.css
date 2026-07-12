@@ -12,3 +12,16 @@ h1 {
 p {
     font-size: 20px;
 }
+button {
+    background-color: #008C45;
+    color: white;
+    border: none;
+    padding: 12px 24px;
+    font-size: 18px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #006633;
+}
